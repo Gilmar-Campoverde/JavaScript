@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+    color: black;
+}
+
+footer {
+	background: #F37558;
+	padding: 60px 0 30px 0;
+	margin: auto;
+    margin-top: 400px;
+	overflow: hidden;
+}
+
+.contenedor-footer {
+	display: flex;
+	width: 90%;
+	justify-content: space-evenly;
+	margin: auto;
+	padding-bottom: 50px;
+	border-bottom: 3px solid #FFB53F;
+}
+
+.contenedor-foo {
+	text-align: center;
+}
+
+.contenedor-foo h5 {
+	color: #fff;
+	font-size: 24px;
+	border-bottom: 3px solid #FFB53F;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+
+.contenedor-foo p {
+	font-size: 22px;
+	color: #ccc;
+}
